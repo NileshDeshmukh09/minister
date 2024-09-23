@@ -65,6 +65,7 @@ const Header = ({ handleSelect = null }) => {
           <Typography variant="h5" className="text-white" sx={{  cursor: "pointer", fontWeight: "bold" }} onClick={() => navigate("/")}>
             MINISTER Home Feature
           </Typography>
+          
         </div>
         
 
